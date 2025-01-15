@@ -1,0 +1,44 @@
+# Ignore build output directories
+/bin/
+/obj/
+
+# Ignore Visual Studio folders and files
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore .NET Core user-specific files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Ignore npm and Yarn dependencies
+node_modules/
+bower_components/
+
+# Ignore any generated logs or temporary files
+npm-debug.log
+yarn-error.log
+*.log
+
+# Ignore Visual Studio for Mac settings (optional)
+.vscode/
+
+# Ignore appsettings and secrets (if you don't want to track config files)
+appsettings.Development.json
+appsettings.Production.json
+appsettings.Staging.json
+secrets/
+
+# Ignore IDE-specific files (if you use Visual Studio Code or JetBrains Rider)
+.idea/
+.vscode/
+
+# User-specific files (sensitive or personal settings)
+*.user
+*.userosscache
+*.suo

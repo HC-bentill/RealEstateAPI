@@ -35,5 +35,8 @@ public class ApartmentDTO
     public required string Contact { get; set; }  // e.g., "Send a Message"
 }
 
-
+public class GetApartmentByIdDTO
+{
+    public required Guid Id { get; set; }
+}
 }

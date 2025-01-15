@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mac/Documents/LnD/RealEstateAPI/RealEstateAPI.csproj": {}
+    "/Users/mac/Documents/LnD/Real Estate Project/RealEstateAPI/RealEstateAPI.csproj": {}
   },
   "projects": {
-    "/Users/mac/Documents/LnD/RealEstateAPI/RealEstateAPI.csproj": {
+    "/Users/mac/Documents/LnD/Real Estate Project/RealEstateAPI/RealEstateAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mac/Documents/LnD/RealEstateAPI/RealEstateAPI.csproj",
+        "projectUniqueName": "/Users/mac/Documents/LnD/Real Estate Project/RealEstateAPI/RealEstateAPI.csproj",
         "projectName": "RealEstateAPI",
-        "projectPath": "/Users/mac/Documents/LnD/RealEstateAPI/RealEstateAPI.csproj",
+        "projectPath": "/Users/mac/Documents/LnD/Real Estate Project/RealEstateAPI/RealEstateAPI.csproj",
         "packagesPath": "/Users/mac/.nuget/packages/",
-        "outputPath": "/Users/mac/Documents/LnD/RealEstateAPI/obj/",
+        "outputPath": "/Users/mac/Documents/LnD/Real Estate Project/RealEstateAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mac/.nuget/NuGet/NuGet.Config"
